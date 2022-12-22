@@ -18,10 +18,10 @@ from ProjectMan.helpers.misc import create_botlog, heroku
 from ProjectMan.modules import ALL_MODULES
 
 MSG_ON = """
-🔥 **PyroMan-Userbot Berhasil Di Aktifkan**
+🚀 **XaPyro-Userbot Berhasil Di Aktifkan**
 ━━
-➠ **Userbot Version -** `{}`
-➠ **Ketik** `{}alive` **untuk Mengecheck Bot**
+• **Userbot Version -** `{}`
+• **Ketik** `{}alive` **untuk Mengecheck Bot**
 ━━
 """
 
