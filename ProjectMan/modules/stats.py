@@ -51,12 +51,12 @@ async def stats(client: Client, message: Message):
     ms = (end - start).seconds
     await Man.edit_text(
         """`Your Stats Obtained in {} seconds`
-`You have {} Private Messages.`
-`You are in {} Groups.`
-`You are in {} Super Groups.`
-`You Are in {} Channels.`
-`You Are Admin in {} Chats.`
-`Bots = {}`""".format(
+`Kamu punya {} Pesan Pribadi.`
+`Anda masuk {} Groups.`
+`Anda masuk {} Super Groups.`
+`Anda berada di {} Channels.`
+`Anda adalah Admin di {} Chats.`
+`Bot = {}`""".format(
             ms, u, g, sg, c, a_chat, b
         )
     )
