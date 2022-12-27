@@ -14,7 +14,7 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 ```
 
 <h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
-<p align="center"><a href="https://github.com/Rexashh/XaPyro-Ubot"><img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy to Heroku" target="_blank"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Rexashh/XaPyro-Ubot/tree/main"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-indigo?style=for-the-badge&logo=heroku" width="200" height="35.60" /></a></p>
 
 ## 🖇 Generating Pyrogram String Session
     
