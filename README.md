@@ -1,4 +1,4 @@
-# PyroMan-Userbot Telegram
+# Rexa-Userbot Telegram
 
 PyroMan-Userbot adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.
 
